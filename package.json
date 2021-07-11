@@ -1,8 +1,8 @@
 {
     "author": "wensiyuan",
     "name": "vite-plugin-add-timestamp",
-    "version": "0.0.1",
-    "description": "一个在构建阶段给vite模板(html)中的.js,.css文件添加时间戳的插件",
+    "version": "0.0.2",
+    "description": "一个在打包阶段给vite模板(html)中的.js,.css文件添加时间戳的插件",
     "main": "index.js",
     "repository": {
         "type": "git",

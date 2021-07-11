@@ -1,5 +1,5 @@
 const htmlRegex = /\.css|\.js/g;
-module.export = function () {
+module.exports = function () {
     return {
         name: "vite-plugin-add-timestamp",
         apply: "build",
