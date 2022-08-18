@@ -1,4 +1,4 @@
-const htmlRegex = /\.css|\.js/g;
+const htmlRegex = /\.(css|js)$/gm;
 module.exports = function () {
     return {
         name: "vite-plugin-add-timestamp",
